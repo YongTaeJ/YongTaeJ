@@ -12,8 +12,6 @@
 
 <a href="https://far-diagnostic-40e.notion.site/COUNTRY-HERO-eceec0f4ae5041a28fc7a79ad1f8d83f?pvs=4" target="_blank"><img src="https://github.com/YongTaeJ/YongTaeJ/assets/149345676/aec6a5ae-8bb6-46b7-8f39-e3e5eebce893.png" width="400" height="200"/>
 
-## 포트폴리오
-
 ## 기술 스택
 
 <img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=Unity&logoColor=FFFFFF"/>
