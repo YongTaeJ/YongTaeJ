@@ -1,17 +1,14 @@
-<div align=center>
-
 # 게임 개발자 정용태입니다.
 
-재미있는 게임을 만듭니다.
+* 재미있는 게임을 만듭니다.
 
-사소한 디테일도 중요하게 생각합니다.
+* 사소한 디테일도 중요하게 생각합니다.
 
-즐겁게 개발해야 즐거운 게임이 나온다고 믿습니다.
+* 즐겁게 개발해야 즐거운 게임이 나온다고 믿습니다.
 
 ## 기술 스택
 
-<img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=Unity&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=plastic&logo=Csharp&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=Unity&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C%23-512BD4?style=plastic&logo=Csharp&logoColor=FFFFFF"/>
 
 ## 팀 프로젝트
 
@@ -30,5 +27,3 @@
 ## 기타
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gomdollee)](https://solved.ac/gomdollee)<br/>
-
-</div>
