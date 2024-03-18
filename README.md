@@ -8,6 +8,11 @@
 
 즐겁게 개발해야 즐거운 게임이 나온다고 믿습니다.
 
+## 기술 스택
+
+<img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=Unity&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=plastic&logo=Csharp&logoColor=FFFFFF"/>
+
 ## 팀 프로젝트
 
 <img src="https://github.com/YongTaeJ/YongTaeJ/assets/149345676/aec6a5ae-8bb6-46b7-8f39-e3e5eebce893.png" width="400" height="200"/>
@@ -16,13 +21,6 @@
 |-|-|
 
 ## 개인 프로젝트
-
-
-
-## 기술 스택
-
-<img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=Unity&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=plastic&logo=Csharp&logoColor=FFFFFF"/>
 
 ## TIL 일지
 
