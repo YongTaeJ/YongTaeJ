@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=Unity&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/C%23-512BD4?style=plastic&logo=Csharp&logoColor=FFFFFF"/>
 
-## 블로그
+## TIL 일지
 <a href="https://blog.naver.com/g_o_robot" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=plastic&logo=Naver&logoColor=FFFFFF"/></a>
 
 ## 기타
