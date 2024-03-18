@@ -22,7 +22,9 @@
 <img src="https://img.shields.io/badge/C%23-512BD4?style=plastic&logo=Csharp&logoColor=FFFFFF"/>
 
 ## TIL 일지
-<a href="https://blog.naver.com/g_o_robot" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=plastic&logo=Naver&logoColor=FFFFFF"/></a>
+
+<a href="https://blog.naver.com/g_o_robot" target="_blank"><img src="https://github.com/YongTaeJ/YongTaeJ/assets/149345676/4d8a9318-f4be-44c7-9b9e-ccb791efddaf.png" width="516" height="167"/>
+
 
 ## 기타
 
