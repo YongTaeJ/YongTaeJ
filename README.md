@@ -15,7 +15,7 @@
 
 ## 팀 프로젝트
 
-<img src="https://github.com/YongTaeJ/YongTaeJ/assets/149345676/aec6a5ae-8bb6-46b7-8f39-e3e5eebce893.png" width="400" height="200"/>
+<a href="https://yongtaej.itch.io/countryhero" target="_blank"><img src="https://github.com/YongTaeJ/YongTaeJ/assets/149345676/aec6a5ae-8bb6-46b7-8f39-e3e5eebce893.png" width="400" height="200"/></a>
 
 |<a href="https://far-diagnostic-40e.notion.site/COUNTRY-HERO-eceec0f4ae5041a28fc7a79ad1f8d83f?pvs=4" target="_blank">브로셔</a>|<a href="https://far-diagnostic-40e.notion.site/4c0bd6c3650b46a0ba2d4c6fe2f79cb4?pvs=4" target="_blank">포트폴리오</a>|
 |-|-|
