@@ -17,8 +17,6 @@
 |<a href="https://far-diagnostic-40e.notion.site/COUNTRY-HERO-eceec0f4ae5041a28fc7a79ad1f8d83f?pvs=4" target="_blank">브로셔</a>|<a href="https://far-diagnostic-40e.notion.site/4c0bd6c3650b46a0ba2d4c6fe2f79cb4?pvs=4" target="_blank">포트폴리오</a>|
 |-|-|
 
-## 개인 프로젝트
-
 ## TIL 일지
 
 <a href="https://blog.naver.com/g_o_robot" target="_blank"><img src="https://github.com/YongTaeJ/YongTaeJ/assets/149345676/4d8a9318-f4be-44c7-9b9e-ccb791efddaf.png" width="330" height="107"/>
